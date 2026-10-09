@@ -1,0 +1,6 @@
+recursive-include passerelle_imio_iacitizen *.py
+include settings.d/50passerelle_imio_iacitizen.py
+include MANIFEST.in
+include README.md
+include CHANGELOG.md
+include LICENSE
